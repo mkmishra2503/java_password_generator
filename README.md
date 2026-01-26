@@ -31,8 +31,7 @@ This project uses core Java concepts like `Random`, `StringBuilder`, and loops t
 
 ## 🛠️ Tech Stack
 
-- **Language:** Java  
-- **IDE:** Eclipse  
+- **Language:** Java   
 - **Application Type:** Console Based  
 
 ---
@@ -58,8 +57,10 @@ PasswordGenerator/
 ## 🖥️ Sample Output
 
 ===================================
+
 🔐 Password Generator
 Enter password length (minimum 4): 10
+
 ✅ Generated Strong Password: A1@kXz8#Lm
 
 
