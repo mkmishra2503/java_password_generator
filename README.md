@@ -38,18 +38,21 @@ This project uses core Java concepts like `Random`, `StringBuilder`, and loops t
 
 ## 📂 Project Structure
 
-PasswordGenerator/
+java-password-generator/
 │
 ├── src/
-│ └── com/password/
-│ └── PasswordGeneratorApp.java
+│   └── com/
+│       └── password/
+│           └── PasswordGeneratorApp.java
 │
 ├── screenshots/
-│ ├── console_output.png
-│ ├── program_structure.png
-│ └── run_program.png
+│   ├── program_structure.png
+│   ├── console_output.png
+│   └── run_program.png
 │
-└── README.md
+├── README.md
+└── .gitignore
+
 
 
 ---
