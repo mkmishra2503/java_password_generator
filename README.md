@@ -79,12 +79,11 @@ Enter password length (minimum 4): 10
 ---
 ## ▶️ How to Run
 
-1. Open project in **Eclipse**
-2. Go to:
-   `src → com.password → PasswordGeneratorApp.java`
-3. Right Click → **Run As → Java Application**
-4. Enter password length and generate password ✅
+### ✅ 1) Clone the Repository
+```bash
+git clone https://github.com/mkmishra2503/java_password_generator.git
 
+```
 
 ---
 ⭐ If you like this project, please give it a **star** ⭐
