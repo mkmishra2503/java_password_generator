@@ -72,10 +72,10 @@ Enter password length (minimum 4): 10
 ![Program Structure](screenshots/program_structure.png)
 
 ### ✅ Run Program
-![Run Program](screenshots/run_program.png)
+![Run Program](screenshots/console_output.png)
 
 ### ✅ Console Output
-![Console Output](screenshots/console_output.png)
+![Console Output](screenshots/run_program.png)
 
 ---
 ## ▶️ How to Run
