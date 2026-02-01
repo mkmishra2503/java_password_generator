@@ -37,7 +37,7 @@ This project uses core Java concepts like `Random`, `StringBuilder`, and loops t
 ---
 
 ## 📂 Project Structure
-
+```text
 java-password-generator/
 │
 ├── src/
@@ -52,7 +52,7 @@ java-password-generator/
 │
 ├── README.md
 └── .gitignore
-
+```
 
 
 ---
